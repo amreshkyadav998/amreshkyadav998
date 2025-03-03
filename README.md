@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **FandomX as Intern**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 currently working on **Pulsepost**
 
 - 💬 Ask me about **MERN , DSA**
 
