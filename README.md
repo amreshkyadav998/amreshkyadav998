@@ -11,7 +11,7 @@
 
 - 🌱 currently working on **Pulsepost**
 
-- 💬 Ask me about **MERN , DSA**
+- 💬 Ask me about **MERN , NextJs , DSA** 
 
 - 📫 How to reach me **amreshky997@gmail.com**
 
