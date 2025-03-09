@@ -1,33 +1,123 @@
-<img  alt="Coding" width="1000" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoaD8VkITZuZHYwno5S58R3IC_wmQL2GXkBg&s">
-<h1 align="center">Hi 👋, I'm Amresh Yadav</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amreshkyadav998&label=Profile%20views&color=0e75b6&style=flat" alt="amreshkyadav998" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 Ex-SDE Intern at **FandomX**
-
-- 🌱 currently working on **Pulsepost**
-
-- 💬 Ask me about **MERN , NextJs , DSA** 
-
-- 📫 How to reach me **amreshky997@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amresh-yadav-223656257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amresh-yadav-223656257" height="30" width="40" /></a>
-<a href="https://instagram.com/amreshkyadav997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amreshkyadav997" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/amreshky997" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/amreshky997" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/amy999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/amy999" height="30" width="40" /></a>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoaD8VkITZuZHYwno5S58R3IC_wmQL2GXkBg&s" alt="Coding" width="1000">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Amresh Yadav</h1>
+<h3 align="center">MERN Stack Developer | Competitive Programmer | Tech Enthusiast</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amreshkyadav998&show_icons=true&locale=en&layout=compact" alt="amreshkyadav998" /></p>
+<!-- Right-side Animated GIF -->
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Coding">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amreshkyadav998&show_icons=true&locale=en" alt="amreshkyadav998" /></p>
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amreshkyadav998&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amreshkyadav998&" alt="amreshkyadav998" /></p>
+<!-- Social Media -->
+## 📬 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/amresh-yadav-223656257" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-AmreshYadav-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/amreshkyadav998" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-amreshkyadav998-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.codechef.com/users/amreshky997" target="blank">
+    <img src="https://img.shields.io/badge/CodeChef-amreshky997-orange?style=flat-square&logo=codechef" alt="CodeChef">
+  </a>
+  <a href="https://leetcode" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-700%2B%20Problems-orange?style=flat-square&logo=leetcode" alt="LeetCode">
+  </a>
+  <a href="https://codeforces.com/profile/amy999" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-amy999-blue?style=flat-square&logo=codeforces" alt="Codeforces">
+  </a>
+</p>
+
+---
+
+## 🏆 About Me
+- 🔭 **Ex-SDE Intern at FandomX**
+- 🌱 **Currently working on Pulsepost**
+- 📍 **B.Tech | IIIT Ranchi | CGPA: 9.56**
+- 📫 **Email:** amreshky997@gmail.com
+
+---
+
+## 💼 Experience
+### 🔹 **MERN Developer | FandomX (Oct 2024 - Jan 2025)**
+- Developed FandomX's first web platform, increasing customer involvement by **30%**.
+- Built a **responsive frontend** using **React.js & Tailwind CSS** with **80% cross-device compatibility**.
+- Implemented **secure authentication (JWT, bcrypt.js, MongoDB, Node.js, Express.js)**.
+
+---
+
+## 🚀 Projects
+### 1️⃣ **AmiChat - Real-time Chat App**
+- 🌐 Live: [AmiChat](https://amichat.onrender.com/login) | [GitHub](https://github.com/amreshkyadav998/AmiChat)
+- Built with **React.js, Tailwind CSS, Node.js, MongoDB, and Socket.io**.
+- Added **JWT authentication, Cloudinary image uploads**, and **real-time messaging**.
+
+### 2️⃣ **Shopify - E-Commerce Platform**
+- 🌐 Live: [Shopify](https://shopify-jet-five.vercel.app/) | [GitHub](https://github.com/amreshkyadav998/ShopifyLast)
+- Designed an adaptive UI with **React.js, Express.js, and MongoDB**.
+- **Enhanced data retrieval speed by 25%**.
+
+### 3️⃣ **StayBnB - Home Away Stay**
+- 🌐 Live: [StayBnB](https://stay-bn-b-yeg4.vercel.app/listings) | [GitHub](https://github.com/amreshkyadav998/stayBnB)
+- Inspired by **Airbnb**, built with **EJS, Node.js, MongoDB, Bootstrap**.
+- Secured user authentication with **JWT**.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amreshkyadav998&show_icons=true&theme=react" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amreshkyadav998&theme=react" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amreshkyadav998&layout=compact&theme=react" alt="Top Languages">
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amreshkyadav998&theme=react-dark" alt="GitHub Activity Graph">
+</p>
+
+---
+
+## 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amreshkyadav998&theme=onedark&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+## 🎖️ Achievements
+- 🏆 **CodeChef**: **Global Rank 343 in Starters 166 | Max Rating: 1625 (3★)**
+- 🏆 **Leetcode**: **Max Contest Rating: 1872 (Knight)**
+- 🏆 **Codeforces**: **Max Rating: 1227 (Pupil)**
+- 🏆 **GFG**: **Contest Rating: 1686**
+
+---
+
+## 📚 Education
+🎓 **IIIT Ranchi** | B.Tech in Electronics and Communication Engineering | **CGPA: 9.59**
+
+---
+
+## 💡 Extra-Curricular Activities
+- Member of the **Technical Society** at IIIT Ranchi (Software & Competitive Programming Wing).
+
+---
+
+## 📢 Let's Connect!
+📧 **Email:** amreshky997@gmail.com  
+🌍 **Portfolio:** [amy-portfolio-kappa.vercel.app](https://amy-portfolio-kappa.vercel.app)  
+📌 **GitHub:** [amreshkyadav998](https://github.com/amreshkyadav998)  
+
+---
+
+🔹 _Thanks for visiting my profile! Feel free to explore my repositories and connect with me._ 🚀
