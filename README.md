@@ -41,13 +41,13 @@
 ## 🏆 About Me
 - 🔭 **Ex-SDE Intern at FandomX**
 - 🌱 **Currently working on Pulsepost**
-- 📍 **B.Tech | IIIT Ranchi | CGPA: 9.56**
-- 📫 **Email:** amreshky997@gmail.com
+- 📍 **B.Tech | IIIT Ranchi | CGPA: 9.59**
+- 📫 **Email:** amreshky996@gmail.com
 
 ---
 
 ## 💼 Experience
-### 🔹 **MERN Developer | FandomX (Oct 2024 - Jan 2025)**
+### 🔹 **MERN Developer | FandomX**
 - Developed FandomX's first web platform, increasing customer involvement by **30%**.
 - Built a **responsive frontend** using **React.js & Tailwind CSS** with **80% cross-device compatibility**.
 - Implemented **secure authentication (JWT, bcrypt.js, MongoDB, Node.js, Express.js)**.
@@ -73,15 +73,27 @@
 ---
 
 ## 🛠️ Skills & Technologies
-<p align="left">
+### **Languages**
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+</p>
+
+### **Frameworks & Libraries**
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+</p>
+
+### **Developer Tools & Others**
+<p>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
@@ -100,31 +112,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amreshkyadav998&theme=react-dark" alt="GitHub Activity Graph">
 </p>
-
----
-
-## 🏆 GitHub Profile Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amreshkyadav998&theme=onedark&margin-w=15&no-frame=true" />
-</p>
-
----
-
-## 🎖️ Achievements
-- 🏆 **CodeChef**: **Global Rank 343 in Starters 166 | Max Rating: 1625 (3★)**
-- 🏆 **Leetcode**: **Max Contest Rating: 1872 (Knight)**
-- 🏆 **Codeforces**: **Max Rating: 1227 (Pupil)**
-- 🏆 **GFG**: **Contest Rating: 1686**
-
----
-
-## 📚 Education
-🎓 **IIIT Ranchi** | B.Tech in Electronics and Communication Engineering | **CGPA: 9.59**
-
----
-
-## 💡 Extra-Curricular Activities
-- Member of the **Technical Society** at IIIT Ranchi (Software & Competitive Programming Wing).
 
 ---
 
