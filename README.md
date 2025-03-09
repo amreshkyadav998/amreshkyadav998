@@ -28,7 +28,7 @@
   <a href="https://www.codechef.com/users/amreshky997" target="blank">
     <img src="https://img.shields.io/badge/CodeChef-amreshky997-orange?style=flat-square&logo=codechef" alt="CodeChef">
   </a>
-  <a href="https://leetcode" target="blank">
+  <a href="https://leetcode.com//" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-1872%2B%20Rating-orange?style=flat-square&logo=leetcode" alt="LeetCode">
   </a>
   <a href="https://codeforces.com/profile/amy999" target="blank">
@@ -69,6 +69,21 @@
 - 🌐 Live: [StayBnB](https://stay-bn-b-yeg4.vercel.app/listings) | [GitHub](https://github.com/amreshkyadav998/stayBnB)
 - Inspired by **Airbnb**, built with **EJS, Node.js, MongoDB, Bootstrap**.
 - Secured user authentication with **JWT**.
+
+---
+
+## 🛠️ Skills & Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</p>
 
 ---
 
