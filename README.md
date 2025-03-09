@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/CodeChef-amreshky997-orange?style=flat-square&logo=codechef" alt="CodeChef">
   </a>
   <a href="https://leetcode" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode%2B%20Problems-orange?style=flat-square&logo=leetcode" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-1872%2B%20Problems-orange?style=flat-square&logo=leetcode" alt="LeetCode">
   </a>
   <a href="https://codeforces.com/profile/amy999" target="blank">
     <img src="https://img.shields.io/badge/Codeforces-amy999-blue?style=flat-square&logo=codeforces" alt="Codeforces">
