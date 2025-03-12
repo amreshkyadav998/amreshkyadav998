@@ -20,7 +20,7 @@
 ## 📬 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/amresh-yadav-223656257" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-AmreshYadav-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-AmreshYadav-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile">
   </a>
   <a href="https://github.com/amreshkyadav998" target="blank">
     <img src="https://img.shields.io/badge/GitHub-amreshkyadav998-black?style=flat-square&logo=github" alt="GitHub">
