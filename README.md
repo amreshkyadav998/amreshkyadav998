@@ -57,7 +57,7 @@
 ## 🚀 Projects
 ### 1️⃣ **AmiChat - Real-time Chat App**
 - 🌐 Live: [AmiChat](https://amichat.onrender.com/login) | [GitHub](https://github.com/amreshkyadav998/AmiChat)
-- Built with **React.js, Tailwind CSS, Node.js, MongoDB, and Socket.io**.
+- Built scalable application with **React.js, Tailwind CSS, Node.js, MongoDB, and Socket.io**.
 - Added **JWT authentication, Cloudinary image uploads**, and **real-time messaging**.
 
 ### 2️⃣ **Shopify - E-Commerce Platform**
