@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Amresh Yadav</h1>
-<h3 align="center">Full-Stack Web Developer | Competitive Programmer | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Web Developer | Competitive Programmer | Tech Enthusiast</h3>
 
 <!-- Right-side Animated GIF -->
 <p align="center">
