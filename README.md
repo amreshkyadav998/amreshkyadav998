@@ -47,7 +47,7 @@
 ---
 
 ## 💼 Experience
-### 🔹 **MERN Developer | FandomX**
+### 🔹 **Full Stack Developer | FandomX**
 - Developed FandomX's first web platform, increasing customer involvement by **30%**.
 - Built a **responsive frontend** using **React.js & Tailwind CSS** with **80% cross-device compatibility**.
 - Implemented **secure authentication part using (JWT, bcrypt.js, MongoDB, Node.js, Express.js)**.
