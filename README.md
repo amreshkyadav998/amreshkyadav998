@@ -39,6 +39,7 @@
 ---
 
 ## 🏆 About Me
+- 🔭 **SDE Intern at DraconX**
 - 🔭 **Ex-SDE Intern at FandomX**
 - 🌱 **Currently working on Pulsepost**
 - 📍 **B.Tech | IIIT Ranchi | CGPA: 9.59**
