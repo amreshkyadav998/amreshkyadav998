@@ -41,7 +41,7 @@
 ## 🏆 About Me
 - 🔭 **SDE Intern at DraconX**
 - 🔭 **Ex-SDE Intern at FandomX**
-- 🌱 **Currently working on Pulsepost**
+- 🌱 **Currently working on Pulsepost/Contest-Tracker**
 - 📍 **B.Tech | IIIT Ranchi | CGPA: 9.59**
 - 📫 **Email:** amreshky996@gmail.com
 
