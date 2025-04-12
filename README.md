@@ -30,7 +30,6 @@
       backend: ["Node.js", "Express.js", "MongoDB"],
       tools: ["Git", "Postman", "Firebase"]
     },
-    funFact: "I can solve a Rubik's cube in under 60 seconds!"
   };
   ```
   
