@@ -17,7 +17,7 @@
 </p>
 
 <!-- Social Media -->
-## 📬 Connect with Me
+## 📬 Connect with Me.
 <p align="left">
   <a href="https://www.linkedin.com/in/amresh-yadav-223656257" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-AmreshYadav-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile">
