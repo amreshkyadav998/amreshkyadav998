@@ -135,7 +135,7 @@
     </div>
     <div style="display: flex; align-items: center; margin-bottom: 20px;">
       <div style="margin-right: 15px;">
-        <h3>🔹 SDE Intern @ FandomX</h3>
+        <h3>🔹 Ex-SDE Intern @ FandomX</h3>
         <p>Developed company's first web platform, increasing customer engagement by 30%</p>
         <p>Built responsive frontend using React.js & Tailwind CSS</p>
         <p>Implemented secure authentication using JWT, bcrypt.js, MongoDB</p>
