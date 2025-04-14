@@ -21,7 +21,7 @@
   ```javascript
   const amresh = {
     education: "B.Tech @ IIIT Ranchi | CGPA: 9.59",
-    experience: ["SDE Intern @ DraconX", "Ex-SDE Intern @ FandomX"],
+    experience: ["SDE Intern @ DraconX", "Ex - SDE Intern @ FandomX"],
     currentProject: "Pulsepost/Contest-Tracker",
     interests: ["Web Development", "Competitive Programming", "System Design"],
     techStack: {
