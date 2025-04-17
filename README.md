@@ -1,4 +1,4 @@
-<!-- Banner with Wave Animation-->
+<!-- Banner with Wave Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amresh%20Yadav&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%">
 </p>
