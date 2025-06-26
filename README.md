@@ -22,7 +22,7 @@
   const amresh = {
     education: "B.Tech @ IIIT Ranchi | CGPA: 9.59",
     experience: ["SWE Intern @ Saarthee" Ex-SDE Intern @ DraconX ", "Ex - SDE Intern @ FandomX"],
-    currentProject: "Pulsepost/Contest-Tracker",
+    currentProject: " Pulsepost/Contest-Tracker",
     interests: ["Web Development", "Competitive Programming", "System Design"],
     techStack: {
       languages: ["C++", "JavaScript", "Python"],
